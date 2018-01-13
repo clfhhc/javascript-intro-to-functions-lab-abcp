@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   } else if (string===shout(string)) {
     return shout("Yes Indeed!");
   } else if (string==="I love you, Grandma.") {
-    return "string+", too.""
+    return "I love you, too.";
   }
 }
